@@ -1,0 +1,13 @@
+{
+
+    "header": {
+        "display": "flex",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "backgroundColor": "lightblue"
+    },
+    "container": {
+        "backgroundColor": "lightblue"
+    }
+}
+
