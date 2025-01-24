@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class UserProfile extends Component {
+class Props5 extends Component {
   render() {
     const styleImage = {
         width : "160px",
@@ -27,6 +27,6 @@ class UserProfile extends Component {
   }
 }
 
-export default UserProfile;
+export default Props5;
 
 // <UserProfile avatar="avatar.jpg" name="Amro" email="amro@orange.com" />

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Header extends Component {
+class Props6 extends Component {
   render() {
     return (
       <header>
@@ -15,5 +15,5 @@ class Header extends Component {
   }
 }
 
-export default Header;
-// <Task18 title="My Website" hLink="/a" aLink="/b" ctLink="/c" /> <hr  />
+export default Props6;
+// <Props6 title="My Website" hLink="/a" aLink="/b" ctLink="/c" /> <hr  />
